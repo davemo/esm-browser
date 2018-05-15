@@ -1,0 +1,14 @@
+{
+  "name": "esm-browser",
+  "version": "1.0.0",
+  "description": "playground for es modules in browsers",
+  "main": "app.js",
+  "scripts": {
+    "start": "serve ."
+  },
+  "author": "dave@testdouble.com",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^6.5.7"
+  }
+}
